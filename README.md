@@ -6,6 +6,12 @@ Simple Node.js + Express "Hello World" server.
 
 </div>
 
+<p align="center">
+  <a href="https://create-a-basic-express-server.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Live%20Preview-Create%20Basic%20Express%20Server-red?style=for-the-badge" />
+  </a>
+</p>
+
 ### Tech Stack
 - **Runtime**: Node.js
 - **Framework**: Express
